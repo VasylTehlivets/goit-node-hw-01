@@ -1,0 +1,27 @@
+{
+  "name": "goit-node-hw-01",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/VasylTehlivets/goit-node-hw-01#readme",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "run": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasylTehlivets/goit-node-hw-01.git"
+  },
+  "author": "Vasyl Tehlivets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasylTehlivets/goit-node-hw-01/issues"
+  }
+}
